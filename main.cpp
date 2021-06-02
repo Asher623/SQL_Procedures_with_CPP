@@ -15,8 +15,8 @@ Statement* stmt = nullptr;
 ResultSet* rs = nullptr;
 
 string str;
-string user = "dbs311_203f02";
-string pass = "31882135";
+string user = "";
+string pass = "";
 string constr = "myoracle12c.senecacollege.ca:1521/oracle12c";
 
 
